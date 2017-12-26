@@ -2,4 +2,5 @@ body{
   background: red;
   font-size: 20px;
   border-top:5px solid red;
+  border-bottom: 10px;
 }
