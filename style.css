@@ -1,4 +1,13 @@
 body{
   background: red;
   font-size: 20px;
+  border-top: 2px solid red;
+
+}
+
+header{
+
+  background: blue;
+  border-radius: 2px;
+  border-bottom: 2px solid gray;
 }
