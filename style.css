@@ -12,6 +12,6 @@ header{
   border-radius: 2px;
   border-bottom: 2px solid gray;
 =======
-  border-top:5px;
+  border-top:5px solid red;
 >>>>>>> feature-2
 }
